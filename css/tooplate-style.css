@@ -46,7 +46,7 @@ body {
 
 .tm-section-1 {
   height: 750px;
-  background-image: url(../img/img/هنرستان\ انفورماتیک\ ایران.png);
+  background-image: url(../img/هنرستان\ انفورماتیک\ ایران.png);
   background-size: cover;
   -webkit-clip-path: polygon(0px 0px, 100% 0px, 100% 84%, 0px 100%);
   clip-path: polygon(0px 0px, 100% 0px, 100% 84%, 0px 100%);
@@ -58,7 +58,7 @@ body {
 
 .tm-section-3 {
   height: 700px;
-  background-image: url(../img/img/هنرستان\ انفورماتیک\ تهران.png);
+  background-image: url(../img/هنرستان\ انفورماتیک\ تهران.png);
   background-size: cover;
   -webkit-clip-path: polygon(0px 0px, 100% 14%, 100% 86%, 0px 100%);
   clip-path: polygon(0px 0px, 100% 14%, 100% 86%, 0px 100%);
